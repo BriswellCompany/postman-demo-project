@@ -1,0 +1,17 @@
+[
+    {
+        "uid": "228507cc-c3a8-4833-983a-69d55fc4406d",
+        "name": "member",
+        "active": 0
+    },
+    {
+        "uid": "bc85e50f-162f-443f-b279-cfee1edd28c6",
+        "name": "admin",
+        "active": 1
+    },
+    {
+        "uid": "64d72ad6-1bb5-467a-b058-ea809b4bfce7",
+        "name": "super_admin",
+        "active": "1"
+    }
+]

@@ -1,0 +1,17 @@
+[
+    {
+        "uid": "84d655c1-b706-4123-9267-9b034611e340",
+        "username": "son.ph",
+        "password": "$2y$10$7b.Ch4c439ucVBE2OyDVruyosVyObY2KOmmCFF.7EKycPUpj9pIla"
+    },
+    {
+        "uid": "9777ce3a-0ad6-4571-a2c2-033ce487a1dc",
+        "username": "admin",
+        "password": "$2y$10$zSKRaL3YkfBiWnHie2urUeI4d7p2O1jy0nWaWXxv8nCakLSX1l8B."
+    },
+    {
+        "uid": "578be04c-07f7-44ae-a219-f697377961ad",
+        "username": "naoya",
+        "password": "$2y$10$ShaUeTTyGjMVDzxFItZj4uuexyVXOxJ1ctxfe7QbpGvKHV24xSgFq"
+    }
+]
