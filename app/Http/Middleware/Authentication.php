@@ -43,10 +43,4 @@ class Authentication
 
         return $next($request);
     }
-
-    function readData4Json($secion) {
-        $jsonString = file_get_contents(base_path("resources/json/{$secion}.json"));
-
-        return json_decode($jsonString, true);
-    }
 }
