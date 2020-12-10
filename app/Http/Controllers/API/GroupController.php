@@ -10,7 +10,7 @@ use App\Libs\ApiResponseUtil as ApiResponse;
 
 class GroupController extends BaseController
 {
-    function update(Request $request, $uid) {
+    function disable(Request $request, $uid) {
         $active = $request->input('active');
         $groups = Json::readData4Json('groups');
 

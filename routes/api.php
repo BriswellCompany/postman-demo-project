@@ -29,7 +29,7 @@ Route::group(['prefix' => 'users', 'middleware' => ['api.authentication']], func
 
 Route::group(['prefix' => 'groups', 'middleware' => ['api.authentication']], function() {
     Route::get('', [ GroupController::class, 'search' ]);
-    Route::get('{group_id}', [ GroupController::class, 'searchUid' ]);
-    Route::patch('{group_id}', [ GroupController::class, 'update' ]);
+    Route::get('{uid}', [ GroupController::class, 'searchUid' ]);
+    Route::patch('{uid}', [ GroupController::class, 'disable' ]);
 });
 
